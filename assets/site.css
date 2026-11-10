@@ -154,6 +154,8 @@ p,li{text-wrap:pretty}
 .tests p{margin:5px 0}
 .tests .k{display:inline-block;font-size:12.5px;font-weight:700;background:var(--gray);border-radius:999px;padding:1px 10px;margin-right:8px;color:var(--sub)}
 .guide .thanks{margin-top:28px;font-weight:700}
+.joinrow{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin:16px 0 4px}
+.joinrow .hint{margin:0;flex:1 1 240px}
 
 /* footer */
 .site-foot{background:var(--gray);border-top:1px solid var(--line);padding:44px 0 26px;font-size:15px}
